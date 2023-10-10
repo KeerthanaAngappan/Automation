@@ -1,2 +1,1 @@
-# LearnAutomation
-Automation purpose
+This is testing automation project repository
